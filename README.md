@@ -5,18 +5,18 @@ datormācības kursa elektroniskā klade
 **tab 2x** - parāda komandu sarakstu
 
 
-ctrl+shift+t - jauns logs
+**ctrl+shift+t** - jauns logs
 
 
-shell- valoda, kurā runājam ar Linux
+**shell**- valoda, kurā runājam ar Linux
 
 
-pwd- parāda savu atrašanās vietu
+**pwd**- parāda savu atrašanās vietu
 
 
-ctrl+ l - attīra logu
+**ctrl+ l** - attīra logu
 
 
-history - parāda vēsturi
+**history** - parāda vēsturi
 
 
