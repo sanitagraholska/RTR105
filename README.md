@@ -2,7 +2,7 @@
 datormācības kursa elektroniskā klade
 
 
-tab 2x - parāda komandu sarakstu
+**tab 2x** - parāda komandu sarakstu
 
 
 ctrl+shift+t - jauns logs
