@@ -19,4 +19,7 @@ datormācības kursa elektroniskā klade
 
 **history** - parāda vēsturi
 
+**home/user** - pilnā vai absolūtā adrese
+
+
 
