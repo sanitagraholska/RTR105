@@ -1,5 +1,8 @@
+
 # RTR105
-datormācības kursa elektroniskā klade
+
+
+**DATORMĀCĪBAS KURSA ELEKTRONISKĀ KLADE**
 
 
 **tab 2x** - parāda komandu sarakstu
@@ -19,7 +22,26 @@ datormācības kursa elektroniskā klade
 
 **history** - parāda vēsturi
 
+
 **home/user** - pilnā vai absolūtā adrese
+
+
+**SKRIPTS** (fails)
+
+
+**mkdir** Mape
+
+
+**cd** Mape
+
+
+**mkdir** MapeMapee
+
+
+**.** current directory
+
+
+**git clone** klonē failus
 
 
 
