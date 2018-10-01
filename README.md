@@ -44,4 +44,12 @@
 **git clone** klonē failus
 
 
+**git upload** lejupielāde failus
+
+
+**pwd** parāda pašreizējo vietu
+
+
+
+
 
