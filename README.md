@@ -17,6 +17,10 @@
 **pwd**- parāda savu atrašanās vietu
 
 
+**ctrl+shift+t** atver jaunu logu
+
+
+
 **ctrl+ l** - attīra logu
 
 
@@ -48,6 +52,22 @@
 
 
 **pwd** parāda pašreizējo vietu
+
+
+**cd RTR105** ieiet mapē
+
+
+**history > history** kopē vēsturi
+
+
+**rm -rf RTR105** nodzēš rezopizāriju vecās mapes
+
+
+** viss,kas tiek rakstīts pēc **#** Python's ignorē **
+
+
+**name=input('Enter file:') - atver failu**
+
 
 
 
