@@ -113,6 +113,11 @@ in ,
 raise**
 
 
+** saglabāt vēsturi history>history_yymmdd.txt**
+
+
+**repozitāriju ielādēt ./git-upload yymmdd_hh_mm**
+
 
 
 

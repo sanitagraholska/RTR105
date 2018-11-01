@@ -1,0 +1,13 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  rm -rf RTR105
+    4  git clone https://github.com/sanitagraholska/RTR105
+    5  cd RTR105
+    6  iphyton
+    7  ipython
+    8  idle &
+    9  nano teksts1.txt
+   10  nano mbox.txt
+   11  ls -lt
+   12  nano README.md
+   13  history > history_20181101_11_49.txt
