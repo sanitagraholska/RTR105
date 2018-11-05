@@ -84,4 +84,9 @@ strip() removes both beginning and ending whitespace
 **Using a whilestatement, an iteration variable, and the lenfunction, we can construct a loop to look at each of the letters in a string individually**
 
 
-
+The built-in function lengives us the length of a string
+A string is a sequence of characters
+A string literal uses quotes  'Hello'or "Hello"
+For strings, + means “concatenate”
+When a string contains numbers, it is still a string
+We can convert numbers in a string into a number using int()
